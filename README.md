@@ -1,365 +1,289 @@
-Dynamic Interfaces
-=============================
-### PSAM 5155 A
+# Web Advanced: Javascript
+### PSAM 3210: CRN 7845
+____
 
-Course Description
------------------------------
-### Catalog Entry
-This advanced-level elective will focus on designing and developing digital user interfaces that are tightly integrated into dynamic data driven sources of content or information. The course will support research and development surrounding so-called rich internet applications, interactive data visualizations and experimental interfaces that offer new approaches to engaging with content. Special attention will be paid to integrating with public APIs, private databases and proprietary services such as multi-user real-time interaction and media streaming integration. In addition, the course will explore multi-touch and gestural controls and resolving distribution across a fragmented landscape of platforms and systems.
+## Course Description
 
-### Course Description (My Interpretation)
-What exactly is a Dynamic Interface? The definition has vexed me for years. In the past, I've taken it to mean:
+#### Catalog Entry
+This course will focus on extending students' knowledge of code to web and cloud. Students will be learning JavaScript, the programming language of the Web. Students will be introduced to a variety of application from server-side network programming, game development, and the creation of desktop and mobile applications. 
 
-- Interfaces that evolved as a result of users' doing stuff.
-- Multiuser interfaces
-- The evolution of interface itself.
+#### Expanded Description (My Interpretation)
 
-That last definition is the most interesting, and the one that's most important to examine. How did we **really** get to ubiquitious mobile phones? How did creative code become a thing? We all know the major visionaries in tech - Englebart, Jobs, Gates, Berners-Lee and so on - but who shapes technology as we've come to know it?
+Modern web development is crazy: there are thousands of different libraries, frameworks, and plugins that you can use in your applications and on your websites. What's hot and what's not is constantly shifting, sometimes from week to week. What's popular this year may not around the next time you build your website. Common among many of them, however, is a single programming language: Javascript.
 
-The early 21st century has seen explosive and dynamic changes in both the volume of computer users and the way the software on them. Yet so much of that recent past is poorly documented, dismissed as the relic of a bygone era or forgotten altogether.
+In this course, we'll learn how to use Javascript to improve, expand, and augment your web development skills.   This means that we'll go back to basics, solidifying our core understanding of programming concepts and practices before we jump into the really flashy stuff.
 
-Let's talk about how we got to where we are so that we can understand where we're going a little better.
+You'll then be ready and able to do the research and build a website that's right up your alley. Do you like data visualization? Dig deeper into APIs. What about online games? Sink your teeth into Web Sockets. Web applications? Maybe Angular is for you. The common thread to all of these topics is, of course, Javascript.
 
-Course Information
------------------------------
-### Course Number
-PSAM 5155 A
+It's a great time for web development. Explore, play, make mistakes, ask questions, and have fun.
 
------------------------------
+-----
 
-### Meeting Time
-- **When**: Mondays, 7:00PM - 9:40PM
-- **Where**: [Arnhold Hall, 55 W 13th St #930](http://rbtry.co/ZdBTuZ)
+## Course Information
 
-#### Be on time. If you’re late three times you fail the class.
+#### When:
+Tuesdays, 7:00 - 9:40pm
 
------------------------------
+#### Where:
+2 W. 13th St., Room 101
 
-### Instructor Information
-- **Name**: Jamie Kosoy. 
-- **Email Address**: [kosoyj@newschool.edu](kosoyj@newschool.edu)
-- **Twitter**: [@jkosoy](http://twitter.com/jkosoy)
-- **Skype**: jkosoy
+-----
 
-#### Office Hours
-- **When**: Saturdays, 11:00AM - 2:00PM
-- **Where**: [Outpost Lounge, 1014 Fulton St, Brooklyn](http://rbtry.co/spykXw)
+## Instructor Information
+
+**Name:** Owen Herterich 
+
+**Email:** [herto744@newschool.edu](herto744@newschool.edu)
+
+**Skype:** oherterich
+
+#### Office Hours 
+
+**When:** Saturdays, 11:00AM - 2:00pm
+
+**Where:** [Outpost, 1014 Fulton St., Brooklyn](http://bit.ly/1sUTWdQ)
 
 #### Office hours are by appointment only.
 
------------------------------
+-----
 
-Required Class Materials
------------------------------
-### GitHub
+## Class Materials
+
+#### GitHub
 This class will make extensive use of [GitHub](http://github.com) for source control. Our class repository is located at the following address:
 
-#### [https://github.com/parsons-mfadt-jkosoy/2014-spring-dynamic-interfaces](https://github.com/parsons-mfadt-jkosoy/2014-spring-dynamic-interfaces) 
+#### [https://github.com/oherterich/2015-spring-web-javascript](https://github.com/oherterich/2015-spring-web-javascript) 
 
 Each week a folder will be pushed to the master branch containing lessons, examples and assignments. Students are encouraged to fork the repository and contribute notes to the repository as the class goes on.
 
-### Email List
+#### Required Tools
 
-We'll be using an email list for all day-to-day class communication, notices, inspiration, etc. You should have received a message adding you to the group before the semester began.
+* Google Chrome (latest version)
+* [Sublime Text](http://www.sublimetext.com/)
+* Terminal
+* Other tools will be discussed as the semester continues.
 
-That email address is [2014-spring-dynamic-interfaces-group@parsons.edu](mailto:2014-spring-dynamic-interfaces@parsons.edu). If you are not on the list please contact Jamie.
+---- 
 
-Learning Outcomes
------------------------------
+## Additional Materials
+
+These materials and readings aren't required, but they are suggested for additional reference and learning. These vary in level from beginning to advanced.
+
+#### Git
+* [Try Git](https://try.github.io/levels/1/challenges/1)
+* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md)
+
+#### Javascript
+* [Javascript for Cats](http://jsforcats.com/)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [Codecademy](http://www.codecademy.com/)
+* [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### Inspiration
+* [CreativeJS](http://creativejs.com/)
+* [Codrops](http://tympanus.net/codrops/)
+* [FWA](http://www.thefwa.com/)
+* [CodePen](http://codepen.io/)
+
+
+----
+
+## Learning Outcomes
+
 Students who take this class will:
 
-- Have a more thorough grasp of the evolution of the history of our field.
-- Contribute to the invention of a proper design language for discussing interactive works.
-- Improve their technical and design skills in areas of their choosing.
+* Have a solid grasp on basic programming principles, such as variables, conditional statements, loops, and functions.
+* Learn how to interact with web pages through Javascript
+* Be familiar with commonly used Javascript libraries and frameworks
+* Gain an understanding of server-side programming and basic web IT
+* Understand how all parts of a website come together and are developed  
+
+
+----
 
-Grading
------------------------------
-The class is evaluated on a point system for practicality's sake. Each week following class points will be rewarded based on the following scale:
+## Course Outline
+
+Due to the nature of a code/design course, this outline is flexible. Students will be contacted if major changes occur. 
 
-### Core Expectations
-- Extensively leverage all forms of communication outlined here along with the MFADT network for assistance. The email list, Office Hours, D12 are all available to you as resources.
-- Treat class and assignments respectfully.
-	- Participation in class and homework assignments is essential to a passing grade.
-	- **Emailing in a panic hours before an assignment is due is unacceptable**. 
-- Adapting assignments to thesis or other coursework is welcome and encouraged.
-- You will maintain a positive, constructive attitude.
-- Take care of one another.
+#### Week 1 ( 01/27 ) | Introduction
+* Introduction to Class / syllabus review
+* Class census: what are you interested in?
+* Discussion about web development and best practices
+* Intro to Git & GitHub
 
-####Failure to meet these basic expectations will result in zero points for the week.
+#### Week 2 ( 02/03 ) | Web Dev: The Basics
+* Review of HTML, CSS
+* CSS Animation / Transitions
+* SCSS / Preprocessors
 
-### Homework
-Homework submission will be done via **GitHub**.
+#### Week 3 ( 02/10 ) | Intro to Javascript
+* Review of basic code logic
+* Simple Javascript functionality
 
-- Students will create **one** Dynamic Interfaces repository for their assignments.
-- Students will complete assignments in that repository week by week.
-- Assignments will be checked during office hours the subsequent Saturday.
+#### Week 4 ( 02/17 ) | Javascript & Data
+* Arrays and Javascript Objects
+* JSON
+* External APIs
+* Midterm Assigned
 
-Each assignment will be worth 50 points.
+#### Week 5 ( 02/24 ) | Javascript & Animation
+* Discussion: best practices for code 
+* Animation in Javascript ( CSS, canvas, external libraries) 
 
-#### Is the assignment complete? (20 points)
-Criteria to define "completeness" includes:
+#### Week 6 ( 03/03 ) | Workshop
+* Midterm workshop + help session
 
-- Does the assignment complete the base requirements outlined in the assignment?
-- Does the code work?
-- Is the code clean and functional?
-- Is the finished thing well designed or an ugly prototype?
+#### Week 7 ( 03/10 ) | Midterm
+* Midterm presentations
 
-#### Is effort put into the completion of the assignment? (20 points)
-Like any practice you're that you haven't put 10,000 hours into, you will struggle with skills you don't know. For example, if you are new to programming I expect you will struggle with the criteria above.
+#### Week 8 ( 03/17 ) | What's Out There
+* Style Frameworks
+* Application Frameworks
+* Web Sockets
+* Databases
+* MVC
+* Final project assignment
 
-I will be looking for progress in the form of **commit history**. I want to see that you are pushing up iterations of your work.
+#### Week 9 ( 03/31 ) | Responsive Web Design
+* Final project idea presentations
+* Discussion: responsive web design
+* Media queries
+* Testing mobile designs
 
-If you are completing the assignments easily I'll be looking for you to find ways to **push yourself** through experimentation and iteration.
+#### Week 10 ( 04/07 ) | Intro to Node.js
+* Discussion: server-side vs. client-side
+* Simple server
+* Reading/writing from files
+* NPM
+
+#### Week 11 ( 04/14 ) | Databases
+* Discussion: databases
+* Reading and writing from/to databases 
 
-#### Are you completing the assignment in a timely fashion? (10 points)
-Assignments due dates will be clearly outlined. If your commit history bears evident that you did not start working in earnest until the day before the assignment was due, you will lose these points.
+#### Week 12 ( 04/21 ) | Web Socket
+* Discussion: Web Sockets
+* Simple application with Socket.io
 
+#### Week 13 ( 04/28 ) | Amazon Web Services
+* Set up AWS server
 
-#### Notes
-- Weeks with no homework assigned will be weighted appropriately.
+#### Week 14 ( 05/05 ) | Workshop
+* Final project workshop + help session
 
-### Classwork
+#### Week 15 ( 05/12 ) | Final Project
+* Presentation
+* Celebration
 
-#### Are you showing up to class on time? (25 points)
-If you are later than 15 minutes to class you will be marked as late and docked these points.
+----
+## Assignments & Grading
 
-#####In addition if you are late 3 times you fail the class.
+### Expectations
+* Turn in all assignments on time. This class will move quickly. Not turning in an assignment will result in 0 pts for that week.
+* **Emailing me in a panic hours before an assignment is due is unacceptable**.
+* Have a positive attitude and be ready to learn. There's a lot of web out there.
+* Ask questions & take care of each other.
 
-#### Are you participating in the class? (25 points)
-These are the points most easily lost year after year. It confounds me.
+### Homework and Projects
+Students will use **GitHub** to submit all assignments.
 
-I understand there are different personality types - some of you are shy or less open to contribute to class discussions as often as others. However, to make this as clear as possible:
+* Students will create a **separate** repository for this class.
+* Each assignment will be uploaded to this repo in separate folders, week by week.
+	* Example: My repo is called oherterich-webadvanced. My folders are named week01, week02, midterm, etc., with all relevant files and code inside each respective folder. Just make it legible.
+* Assignments will be checked during office hours the following Saturday.
 
-#### I can see what you are doing. I am looking at you while we are in class together.
 
-If it is clear you are texting, IMing, giggling at Reddit or whatever during class points will be deducted.
+#### 10 Assignments ( 100 pts each )
+Weekly assignments. These will be broken down as follows:
 
+* Completeness, 20 pts. ( have you completed all assigned tasks? does it work? )
+* Organization, 20 pts. ( is the code clean? are files organized? )
+* Iteration, 20 pts. ( commit history. has it gone through changes? how has progress been made? )
+* Effort, 40 pts. ( is it well designed? has thought gone into it? )
 
-Schedule
------------------------------
+#### Midterm ( 350 pts )
+Midterm project, due on March 10. No late submissions will be accepted. Same criteria as assignments.
 
-#### Week 1 (1/27)
-- Syllabus Review
-- A discussion on class expecatations. Ask me anything.
-- Topic of Conversation: I Remember...
+#### Final ( 500 pts )
+Final project, due on May 12. No late submissions will be accepted. Same criteria as assignments.
 
-#### Week 2 (2/3)
-- Topic of Conversation: Pre-2001
-- Project 1 assigned.
+#### Participation ( 150 pts )
+Each class is worth 10 pts. These are split as follows:
 
-#### Week 3 (2/10)
-- Topic of Conversation: 2001
+* Attendance, 5 pts. (are you there? are you late?)
+* Participation, 5 pts. (are you paying attention? are you asking questions?)
 
-#### Week 4 (2/24)
-- Topic of Conversation: 2002
-- Project 1 presentations.
+I understand that some students might not be comfortable speaking up in class. Participation is also based on how you act. So, just so we clear this up:
 
-#### Week 5 (3/3)
-- Topic of Conversation: 2003
-- Project 2 assigned.
+**I can see you. I can see if you're on giggling at cat pictures on Reddit, messaging your friends, or taking selfies.**
 
-#### Week 6 (3/10)
-- Topic of Conversation: 2004
+#### Total: 1000 pts.
 
-#### Week 7 (3/17)
-- Topic of Conversation: 2005
+----
 
-#### Week 8 (3/31)
-- Project 2 Presentations
-- Topic of Conversation: 2006
+## Grading Standards
 
-#### Week 9 (4/7)
-- Topic of Conversation: 2007
-
-#### Week 10 (4/14)
-- Topic of Conversation: 2008
-- Project 3 assigned.
-
-#### Week 11 (4/21)
-- Topic of Conversation: 2009
-
-#### Week 12 (4/28)
-- Topic of Conversation: 2010
-
-#### Week 13 (5/5)
-- Topic of Conversation: 2011
-- Project 3 Presentations
-
-#### Week 14 (5/12)
-- Topic of Conversation: 2012
-
-#### Week 15 (5/19)
-- Topic of Conversation: 2013 - 2014
-- Class Celebration.
-
-
-Grading Standards
------------------------------
-**F.** Failing grades are given for required work that is not submitted,
-for incomplete final projects or for examinations that are not taken
-(without prior notification and approval). Fs are given to students who
-show no comprehension whatsoever of the topics discussed in class and no
-forthcomingness to attempt to comprehend. Make-up work or completion of
-missed examinations may be permitted only with the approval of the
-instructor and the program director.
-
-**D.** D grades are given for required work that is consistently received
-late or incomplete and a lack of comprehension of the topics discussed
-in class. D students turn assignments in late and typically do not
-function correctly or required heavy assistance from their peers to
-function at all. This is visibly demonstrated by comparing one students’
-assignment to the next.
-
-**C/C+.** Average grades will be given to students who fail to
-collaborate in the point system described above. This may include
-showing up late for class or expressing visible disdain for the
-assignments, including failing to help struggling peers or request help
-if they are struggling themselves. C+ students will often be quiet
-during lecture time rather than articulating confusion or challenging
-the topic at hand.
-
-**B/B+.** Does everything a C/C+ assignment would do with a more
-enthusiastic approach to the overall class. A B+ student will complete
-the assignments on time and enthusiastically discuss the topics during
-class time.
-
-**A.** An A student does exceptional work. They may not be the best
-programmer or designer but they demonstrate comprehension by submitting multiple
-iterations of their progression through problems with each assignment. A
-students contribute to the larger class by helping struggling students
-out in and outside of class time. A students are active in course
-discussions and even in shaping what they want to take out of the class
-time.
-
-**I.** A grade of I (Incomplete), signifying a temporary deferment of a
-regular grade, may be assigned when coursework has been delayed at the
-end of the semester for unavoidable and legitimate reasons. Incomplete
-grades are given only with the written approval of the instructor and
-the program director. The Request for an Incomplete Grade form must be
-filled out by the student and instructor prior to the end of the
-semester.
-
-For undergraduate students, if a grade of incomplete is approved,
-outstanding work must be submitted by the seventh week of the following
-Fall semester (for Spring and Summer courses) or by the seventh week of
-the following Spring semester (for Fall courses). Otherwise, a grade of
-I will automatically convert to a permanent unofficial withdrawal (WF)
-after a period of four weeks. For graduate students, the maximum
-deadline for completion of an incomplete is one year though a shorter
-period may be imposed at the discretion of the instructor.
-
-Divisional, Program and Class Policies
------------------------------
-###Responsibility
-
-Students are responsible for all assignments, even if they are absent.
-Late papers, failure to complete the readings assigned for class
-discussion, and lack of preparedness for in-class discussions and
-presentations will jeopardize your successful completion of this course.
-
-###Participation
-
-Class participation is an essential part of class and includes: keeping
-up with reading, contributing meaningfully to class discussions, active
-participation in group work, and coming to class regularly and on time.
-
-###Attendance
-
-Faculty members may fail any student who is absent for a significant
-portion of class time. A significant portion of class time is defined as
-three absences for classes that meet once per week and four absences for
-classes that meet two or more times per week. During intensive summer
-sessions a significant portion of class time is defined as two absences.
-Lateness or early departure from class may also translate into one full
-absence.
-
-###Canvas
-
-We will not be using Canvas during class.
-
-###Delays
-
-In rare instances, I may be delayed arriving to class. If I have not
-arrived by the time class is scheduled to start, you must wait a minimum
-of thirty minutes for my arrival. In the event that I will miss class
-entirely, a sign will be posted at the classroom indicating your
-assignment for the next class meeting.
-
-###Academic Integrity
-
-This is the university’s Statement on Academic Integrity: “Plagiarism
-and cheating of any kind in the course of academic work will not be
-tolerated. Academic honesty includes accurate use of quotations, as well
-as appropriate and explicit citation of sources in instances of
-paraphrasing and describing ideas, or reporting on research findings or
-any aspect of the work of others (including that of instructors and
-other students). These standards of academic honesty and citation of
-sources apply to all forms of academic work (examinations, essays,
-theses, computer work, art and design work, oral presentations, and
-other projects).”
-
-It is the responsibility of students to learn the procedures specific to
-their discipline for correctly and appropriately differentiating their
-own work from that of others. Compromising your academic integrity may
-lead to serious consequences, including (but not limited to) one or more
-of the following: failure of the assignment, failure of the course,
-academic warning, disciplinary probation, suspension from the
-university, or dismissal from the university.
-
-Every student at Parsons signs an Academic Integrity Statement as a part
-of the registration process. Thus, you are held responsible for being
-familiar with, understanding, adhering to and upholding the spirit and
-standards of academic integrity as set forth by the Parsons Student
-Handbook.
-
------------------------------
-
-###Guidelines for Written Assignments
-
-Plagiarism is the use of another person's words or ideas in any academic
-work using books, journals, internet postings, or other student papers
-without proper acknowledgment. For further information on proper
-acknowledgment and plagiarism, including expectations for paraphrasing
-source material and proper forms of citation in research and writing,
-students should consult the Chicago Manual of Style (cf. Turabian, 6th
-edition). The University Writing Center also provides useful on-line
-resources to help students understand and avoid plagiarism. See
-[http://www.newschool.edu/admin/writingcenter/](http://www.newschool.edu/admin/writingcenter/).
-
-Students must receive prior permission from instructors to submit the
-same or substantially overlapping material for two different
-assignments. Submission of the same work for two assignments without the
-prior permission of instructors is plagiarism.
-
-###Guidelines for Studio Assignments
-
-Work from other visual sources may be imitated or incorporated into
-studio work if the fact of imitation or incorporation and the identity
-of the original source are properly acknowledged. There must be no
-intent to deceive; the work must make clear that it emulates or comments
-on the source as a source. Referencing a style or concept in otherwise
-original work does not constitute plagiarism. The originality of studio
-work that presents itself as “in the manner of” or as playing with
-“variations on” a particular source should be evaluated by the
-individual faculty member in the context of a critique.
-
-Incorporating ready-made materials into studio work as in a collage,
-synthesized photograph or paste-up is not plagiarism in the educational
-context. In the commercial world, however, such appropriation is
-prohibited by copyright laws and may result in legal consequences.
-
-###Student Disability Services
-
-In keeping with the University’s policy of providing equal access for
-students with disabilities, any student with a disability who needs
-academic accommodations is welcome to meet with me privately. All
-conversations will be kept confidential. Students requesting any
-accommodations will also need to meet with Jason Luchs in the office of
-Student Disability Services, who will conduct an intake, and if
-appropriate, provide an academic accommodation notification letter to
-you to bring to me. At that point I will review the letter with you and
-discuss these accommodations in relation to this course. Mr. Luchs’
-office is located in 79 Fifth Avenue, 5th floor. His direct line is
-(212) 229-5626 x3135. You may also access more information through the
-University’s web site at [http://www.newschool.edu/studentservices/disability/](http://www.newschool.edu/studentservices/disability/).
+#### A  [4.0; 96–100%]
+Work of exceptional quality, which often goes beyond the stated goals of the course. 
+#### A- [3.7; 91 –95%]
+Work of very high quality. 
+#### B+ [3.3; 86–90%]
+Work of high quality that indicates substantially higher than average ability.
 
+#### B  [3.0; 81–85%]
+Very good work that satisfies the goals of the course. 
+#### B- [2.7; 76–80%]
+Good work. 
+#### C+ [2.3; 71–75%]
+Above-average work.
+
+#### C  [2.0; 66–70%]
+Average work that indicates an understanding of the course material; passable 
+Satisfactory completion of a course is considered to be a grade of C or higher. 
+#### C- [1.7; 61–65%]
+Passing work but below good academic standing. 
+#### D  [1.0; 46–60%]
+Below-average work that indicates a student does not fully understand the assignments; 
+Probation level though passing for credit.
+
+#### F  [0.0; 0–45%]
+Failure, no credit.
+
+#### Grade of W
+The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript. A grade of W may also be issued by an instructor to a graduate student (except at Parsons and Mannes) who has not completed course requirements nor arranged for an Incomplete. 
+#### Grade of WF
+The grade of WF is issued by an instructor to a student (all undergraduates and all graduate students) who has not attended or not completed all required work in a course but did not officially withdraw before the withdrawal deadline. It differs from an “F,” which would indicate that the student technically completed requirements but that the level of work did not qualify for a passing grade. The WF is equivalent to an F in calculating the grade point average (zero grade points), and no credit is awarded. 
+#### Grades of Incomplete 
+The grade of I, or temporary incomplete, may be granted to a student under unusual and extenuating circumstances, such as when the student’s academic life is interrupted by a medical or personal emergency. This mark is not given automatically but only upon the student’s request and at the discretion of the instructor. A Request for Incomplete form must be completed and signed by student and instructor. The time allowed for completion of the work and removal of the “I” mark will be set by the instructor with the following limitations: [You should include one the following standards, depending on the level of your course]. 
+Work must be completed no later than the seventh week of the following fall semester for spring or summer term incompletes and no later than the seventh week of the following spring semester for fall term incompletes. Grades of “I” not revised in the prescribed time will be recorded as a final grade of “WF” by the Office of the Registrar. 
+
+----
+
+## Divisional, Program and Class Policies
+
+#### Responsibility 
+Students are responsible for all assignments, even if they are absent.  Late assignments, failure to complete the assignments for class discussion and/or critique, and lack of preparedness for in-class discussions, presentations and/or critiques will jeopardize your successful completion of this course.  
+
+#### Participation 
+Class participation is an essential part of class and includes: keeping up with reading, assignments, projects, contributing meaningfully to class discussions, active participation in group work, and coming to class regularly and on time.  
+
+#### Attendance 
+Faculty members may fail any student who is absent for a significant portion of class time. A significant portion of class time is defined as three absences for classes that meet once per week and four absences for classes that meet two or more times per week. During intensive summer sessions a significant portion of class time is defined as two absences. Lateness or early departure from class may also translate into one full absence. 
+
+#### Blackboard or Canvas
+Blackboard and canvas will not be used in this course.
+
+#### Delays 
+In rare instances, I may be delayed arriving to class.  If I have not arrived by the time class is scheduled to start, you must wait a minimum of thirty minutes for my arrival.  In the event that I will miss class entirely, a sign will be posted at the classroom indicating your assignment for the next class meeting.
+
+#### Electronic Devices 
+Use of electronic devices (phones, tablets, laptops) is permitted when the device is being used in relation to the course's work. All other uses are prohibited in the classroom and devices should be turned off before class starts.
+
+#### Academic Honesty and Integrity
+The New School views “academic honesty and integrity” as the duty of every member of an academic community to claim authorship for his or her own work and only for that work, and to recognize the contributions of others accurately and completely. This obligation is fundamental to the integrity of intellectual debate, and creative and academic pursuits. Academic honesty and integrity includes accurate use of quotations, as well as appropriate and explicit citation of sources in instances of paraphrasing and describing ideas, or reporting on research findings or any aspect of the work of others (including that of faculty members and other students). Academic dishonesty results from infractions of this “accurate use”. The standards of academic honesty and integrity, and citation of sources, apply to all forms of academic work, including submissions of drafts of final papers or projects. All members of the University community are expected to conduct themselves in accord with the standards of academic honesty and integrity. Please see the complete policy in the Parsons Catalog.
+
+It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others.  Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.  
+
+#### Student Disability Services (SDS)
+In keeping with the University’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately.  All conversations will be kept confidential.  Students requesting any accommodations will also need to meet with Jason Luchs in the Office of Student Disability Services, who will conduct an intake, and if appropriate, provide an academic accommodation notification letter to you to bring to me.  SDS assists students with disabilities in need of academic and programmatic accommodations as required by the Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Federal Rehabilitation Act of 1973. http://www.newschool.edu/studentservices/disability/.
