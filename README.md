@@ -9,9 +9,9 @@ This course will focus on extending students' knowledge of code to web and cloud
 
 #### Expanded Description (My Interpretation)
 
-Modern web development is crazy: there are thousands of different libraries, frameworks, and plugins that you can use in your applications and on your websites. What's hot and what's not is constantly shifting, sometimes from week to week. What's popular this year may not around the next time you build your website. Common among many of them, however, is a single programming language: Javascript.
+Modern web development is crazy: there are thousands of different libraries, frameworks, and plugins that can be used in different applications and websites. What's hot and what's not is constantly shifting, sometimes from week to week. What's popular this year may not around the next time a website begins development. Common among many of them, however, is a single programming language: Javascript.
 
-In this course, we'll learn how to use Javascript to improve, expand, and augment your web development skills.   This means that we'll go back to basics, solidifying our core understanding of programming concepts and practices before we jump into the really flashy stuff.
+In this course, we'll learn how to use Javascript to improve, expand, and augment basic web development skills.   This means going back to basics, and solidifying the core understanding of programming concepts and practices before jumping into the really flashy stuff.
 
 You'll then be ready and able to do the research and build a website that's right up your alley. Do you like data visualization? Dig deeper into APIs. What about online games? Sink your teeth into Web Sockets. Web applications? Maybe Angular is for you. The common thread to all of these topics is, of course, Javascript.
 
@@ -94,9 +94,9 @@ These materials and readings aren't required, but they are suggested for additio
 
 Students who take this class will:
 
-* Have a solid grasp on basic programming principles, such as variables, conditional statements, loops, and functions.
+* Develop a solid grasp of basic programming principles, such as variables, conditional statements, loops, and functions.
 * Learn how to interact with web pages through Javascript
-* Be familiar with commonly used Javascript libraries and frameworks
+* Demonstrate familiarity with commonly used Javascript libraries and frameworks
 * Gain an understanding of server-side programming and basic web IT
 * Understand how all parts of a website come together and are developed  
 
@@ -114,57 +114,62 @@ Due to the nature of a code/design course, this outline is flexible. Students wi
 * Intro to Git & GitHub
 
 #### Week 2 ( 02/03 ) | Web Dev: The Basics
+* **Assignment 1 Due**
 * Review of HTML, CSS
 * CSS Animation / Transitions
 * SCSS / Preprocessors
 
-#### Week 3 ( 02/10 ) | Intro to Javascript
+#### Week 3 ( 02/10 ) | Review: Coding Principles 
+* **Assignment 2 Due**
 * Review of basic code logic
-* Simple Javascript functionality
 
-#### Week 4 ( 02/17 ) | Javascript & Data
-* Arrays and Javascript Objects
-* JSON
-* External APIs
-* Midterm Assigned
+#### Week 4 ( 02/17 ) | Intro to Javascript
+* **Assignment 3 Due**
+* Simple Javascript functionality and functions
+* Manipulating DOM with JS.
+* Midterm Assigned 
 
-#### Week 5 ( 02/24 ) | Javascript & Animation
-* Discussion: best practices for code 
-* Animation in Javascript ( CSS, canvas, external libraries) 
 
-#### Week 6 ( 03/03 ) | Workshop
-* Midterm workshop + help session
+#### Week 5 ( 02/24 ) | Javascript, continued
+* **Assignment 4 Due**
+* Functions, conditionals, loops in JS
 
-#### Week 7 ( 03/10 ) | Midterm
+#### Week 6 ( 03/03 ) | Midterm
 * Midterm presentations
 
+#### Week 7 ( 03/10 ) | Responsive Web Design
+* Discussion: responsive web design
+* Media queries
+* Testing mobile designs
+
 #### Week 8 ( 03/17 ) | What's Out There
+* **Assignment 5 Due**
 * Style Frameworks
 * Application Frameworks
 * Web Sockets
 * Databases
 * MVC
-* Final project assignment
+* Final Project Assigned
 
-#### Week 9 ( 03/31 ) | Responsive Web Design
-* Final project idea presentations
-* Discussion: responsive web design
-* Media queries
-* Testing mobile designs
+#### Week 9 ( 03/31 ) | Javascript & Data
+* **Assignment 6: Final Project Presentations**
+* Arrays and Javascript Objects
+* JSON
 
-#### Week 10 ( 04/07 ) | Intro to Node.js
-* Discussion: server-side vs. client-side
-* Simple server
-* Reading/writing from files
-* NPM
+#### Week 10 ( 04/07 ) | Javascript & Data, continued
+* **Assignment 7 Due**
+* AJAX requests
+* Connecting with external APIs.
 
-#### Week 11 ( 04/14 ) | Databases
-* Discussion: databases
-* Reading and writing from/to databases 
+#### Week 11 ( 04/14 ) | Javascript & Animation
+* * **Assignment 8 Due**
+* Discussion: best practices for code
+* Animation in Javascript ( CSS, canvas, external libraries)
 
-#### Week 12 ( 04/21 ) | Web Socket
-* Discussion: Web Sockets
-* Simple application with Socket.io
+#### Week 12 ( 04/21 ) | Review: What We Know
+* **Assignment 9 Due**
+* Review past weeks.
+* In-class Q/A session
 
 #### Week 13 ( 04/28 ) | Amazon Web Services
 * Set up AWS server
@@ -209,14 +214,14 @@ Midterm project, due on March 10. No late submissions will be accepted. Same cri
 Final project, due on May 12. No late submissions will be accepted. Same criteria as assignments.
 
 #### Participation ( 150 pts )
-Each class is worth 10 pts. These are split as follows:
+Each class is worth 10 pts. These are divided as follows:
 
 * Attendance, 5 pts. (are you there? are you late?)
 * Participation, 5 pts. (are you paying attention? are you asking questions?)
 
-I understand that some students might not be comfortable speaking up in class. Participation is also based on how you act. So, just so we clear this up:
+I understand that some students might not be comfortable speaking up in class. Participation is also based on how you act/interact. To clarify:
 
-**I can see you. I can see if you're on giggling at cat pictures on Reddit, messaging your friends, or taking selfies.**
+**I can see you. I can see if you're on giggling at cat pictures, browsing Reddit, or messaging your friends.**
 
 #### Total: 1000 pts.
 
