@@ -110,7 +110,6 @@ Due to the nature of a code/design course, this outline is flexible. Students wi
 #### Week 1 ( 01/27 ) | Introduction
 * Introduction to Class / syllabus review
 * Class census: what are you interested in?
-* Discussion about web development and best practices
 * Intro to Git & GitHub
 
 #### Week 2 ( 02/03 ) | Web Dev: The Basics
@@ -162,7 +161,7 @@ Due to the nature of a code/design course, this outline is flexible. Students wi
 * Connecting with external APIs.
 
 #### Week 11 ( 04/14 ) | Javascript & Animation
-* * **Assignment 8 Due**
+* **Assignment 8 Due**
 * Discussion: best practices for code
 * Animation in Javascript ( CSS, canvas, external libraries)
 
@@ -185,7 +184,7 @@ Due to the nature of a code/design course, this outline is flexible. Students wi
 ## Assignments & Grading
 
 ### Expectations
-* Turn in all assignments on time. This class will move quickly. Not turning in an assignment will result in 0 pts for that week.
+* Turn in all assignments on time. This class will move quickly.
 * **Emailing me in a panic hours before an assignment is due is unacceptable**.
 * Have a positive attitude and be ready to learn. There's a lot of web out there.
 * Ask questions & take care of each other.
