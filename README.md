@@ -222,7 +222,7 @@ I understand that some students might not be comfortable speaking up in class. P
 
 **I can see you. I can see if you're on giggling at cat pictures, browsing Reddit, or messaging your friends.**
 
-#### Total: 1000 pts.
+#### Total: 2000 pts.
 
 ----
 
