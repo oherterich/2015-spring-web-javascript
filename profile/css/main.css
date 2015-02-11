@@ -1,0 +1,35 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	color: blue;
+}
+
+h1 {
+	color: #1F7314;
+	font-size: 5.0rem;
+	font-weight: normal;
+}
+
+div {
+ 	margin: 200px 0px 200px 0px; /* top right bottom left */
+ 	padding: 25px;
+	background-color: #444444;
+}
+
+p {
+	color: white;
+}
+
+.bio {
+	color: red;
+}
+
+.banana {
+	color: yellow;
+}
+
+.posts {
+	background-color: #DDDDDD;
+}
+
+
+
