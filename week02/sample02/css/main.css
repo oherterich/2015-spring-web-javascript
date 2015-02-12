@@ -1,0 +1,63 @@
+/* The following rule resets the browsers default margin and padding */
+* { margin: 0; padding: 0; }
+
+/*This is a trick to make the body of your page a full width and height*/
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.sidebar {
+	width: 300px;
+	padding: 25px;
+	height: 100%;
+	float: left; 
+	background: #111;
+	color: #fff;
+}
+
+.sidebar img {
+	display: block;
+}
+
+.sidebar h3 {
+	margin: 15px 0;
+}
+
+.sidebar p {
+	color: #aaa;
+}
+
+.posts {
+	margin-left: 350px;
+	padding: 50px;
+}
+
+.posts ul li {
+	list-style-type: none;
+	background: #eee;
+	padding: 25px;
+	margin: 25px 0;
+}
+
+.posts h3 {
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	border-bottom: 2px solid #ddd;
+}
+
+.posts h4 {
+	color: #777;
+}
+
+.from {
+	color: #f44;
+}
+
+.date {
+	color: #44f;
+}

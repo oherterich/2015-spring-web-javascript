@@ -1,0 +1,43 @@
+/* The following rule resets the browsers default margin and padding */
+* { padding: 0; margin: 0; }
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-image: url("../img/cage.gif");
+	background-repeat: repeat;
+}
+
+.header {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	background-color: #0a0a0a;
+	padding: 25px 0;
+}
+
+.header h3 {
+	color: #fafafa;
+	text-align: center;
+}
+
+.container {
+	width: 75%;
+	margin: 80px auto;
+	background: #fff;
+	padding: 25px;
+}
+
+.container h1 {
+	font-size: 3.0rem;
+}
+
+.container h3 {
+	margin: 10px 0;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+}
+
+.container p {
+	font-size: 1.3rem;
+	margin: 15px 0;
+}
