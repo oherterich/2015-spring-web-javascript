@@ -1,0 +1,94 @@
+/* General Styles */
+
+* { margin: 0; padding: 0; }
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Sidebar Styles */
+
+.sidebar {
+	width: 25%;
+	height: 100%;
+	position: fixed;
+	background-color: #294A8F;
+}
+
+.sidebar__container {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.sidebar__container img {
+	width: 100%;
+}
+
+.sidebar__container ul {
+	margin-top: 25px;
+}
+
+.sidebar__container li {
+	list-style-type: none;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.sidebar__container a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.sidebar__container a:hover {
+	text-decoration: underline;
+}
+
+/* Content Styles */
+
+.content {
+	width: 75%;
+	margin-left: 25%;
+	padding-top: 50px;
+}
+
+/* Project Styles */
+
+.project {
+	width: 40%;
+	margin-left: 6.5%;
+	margin-bottom: 6.5%;
+	display: inline-block;
+}
+
+.project img {
+	width: 100%;
+	opacity: 1.0;
+	transition: opacity 0.2s;
+}
+
+.project img:hover {
+	opacity: 0.4;
+	transition: opacity 0.2s;
+}
+
+.project__info {
+	padding: 25px;
+	background-color: #ccc;
+	transition: background-color 0.2s;
+}
+
+.project__info:hover {
+	background-color: #aaa;
+	transition: background-color 0.2s;
+}
+
+.project__info h3 {
+	font-size: 1.4rem;
+	margin-bottom: 10px;
+}
+
+.project__info p {
+	color: #666;
+	font-style: italic;
+}
