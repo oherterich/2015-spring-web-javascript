@@ -105,73 +105,71 @@ Students who take this class will:
 
 ## Course Outline
 
-Due to the nature of a code/design course, this outline is flexible. Students will be contacted if major changes occur. 
+Due to the nature of a code/design course, this outline is flexible. 
+Students will be contacted if major changes occur. 
 
-#### Week 1 ( 01/27 ) | Introduction
+#### Week 1 ( 01/27 ) | Snow Day
+* Class cancelled
+
+#### Week 2 ( 02/03 ) | Introduction
 * Introduction to Class / syllabus review
 * Class census: what are you interested in?
 * Intro to Git & GitHub
 
-#### Week 2 ( 02/03 ) | Web Dev: The Basics
+#### Week 3 ( 02/10 ) | HTML/CSS
 * **Assignment 1 Due**
 * Review of HTML, CSS
 * CSS Animation / Transitions
 * SCSS / Preprocessors
 
-#### Week 3 ( 02/10 ) | Review: Coding Principles 
+#### Week 4 ( 02/17 ) | CSS Layout
 * **Assignment 2 Due**
-* Review of basic code logic
+* Creating layouts with CSS
 
-#### Week 4 ( 02/17 ) | Intro to Javascript
+#### Week 5 ( 02/24 ) | CSS Layout (Continued)
 * **Assignment 3 Due**
-* Simple Javascript functionality and functions
-* Manipulating DOM with JS.
-* Midterm Assigned 
+* More CSS rules and styles.
+* Midterm assigned.
 
-
-#### Week 5 ( 02/24 ) | Javascript, continued
+#### Week 6 ( 03/03 ) | Responsive Web Design
 * **Assignment 4 Due**
-* Functions, conditionals, loops in JS
+* Discussion of responsive web design
+* Media queries / testing mobile designs
+* Midterm workshop
 
-#### Week 6 ( 03/03 ) | Midterm
+#### Week 7 ( 03/10 ) | Midterm
 * Midterm presentations
 
-#### Week 7 ( 03/10 ) | Responsive Web Design
-* Discussion: responsive web design
-* Media queries
-* Testing mobile designs
+#### Week 8 ( 03/17 ) | Intro to Javascript
+* Simple Javascript functionality and functions
+* Manipulating DOM with JS.
 
-#### Week 8 ( 03/17 ) | What's Out There
+
+#### Week 9 ( 03/31 ) | Javascript, continued
 * **Assignment 5 Due**
-* Style Frameworks
-* Application Frameworks
-* Web Sockets
-* Databases
-* MVC
-* Final Project Assigned
+* Functions, conditionals, loops in JS
 
-#### Week 9 ( 03/31 ) | Javascript & Data
-* **Assignment 6: Final Project Presentations**
+#### Week 10 ( 04/07 ) | Javascript & Data
+* **Assignment 6 Due**
 * Arrays and Javascript Objects
 * JSON
+* Final Project Assigned
 
-#### Week 10 ( 04/07 ) | Javascript & Data, continued
+#### Week 11 ( 04/14 ) | Javascript & Data, continued
 * **Assignment 7 Due**
+* **Assignment 8 Due: Final Project Presentations**
 * AJAX requests
 * Connecting with external APIs.
 
-#### Week 11 ( 04/14 ) | Javascript & Animation
-* **Assignment 8 Due**
+#### Week 12 ( 04/21 ) | Javascript & Animation
+* **Assignment 9 Due**
 * Discussion: best practices for code
 * Animation in Javascript ( CSS, canvas, external libraries)
 
-#### Week 12 ( 04/21 ) | Review: What We Know
-* **Assignment 9 Due**
+#### Week 13 ( 04/28 ) | Review: What We Know
+* **Assignment 10 Due**
 * Review past weeks.
 * In-class Q/A session
-
-#### Week 13 ( 04/28 ) | Amazon Web Services
-* Set up AWS server
 
 #### Week 14 ( 05/05 ) | Workshop
 * Final project workshop + help session
