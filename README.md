@@ -1,3 +1,8 @@
+## Grades Here: 
+#### [Web Advanced: Javascript - Grades](https://docs.google.com/spreadsheets/d/1Ofa4NXrAgVWW03RmHzYICfnFxGljJjGvfd1YVkGwABk/edit?usp=sharing)
+
+----
+
 # Web Advanced: Javascript
 ### PSAM 3210: CRN 7845
 ____
