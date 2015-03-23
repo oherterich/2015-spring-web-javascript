@@ -1,0 +1,26 @@
+.content {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.pallette {
+	width: 25px;
+	height: 25px;
+	margin: 10px;
+}
+
+.pallette-1 {
+	background-color: #000;
+}
+
+.pallette-2 {
+	background-color: #f00;
+}
+
+.pallette-3 {
+	background-color: #0f0;
+}
+
+.pallette-4 {
+	background-color: #00f;
+}
