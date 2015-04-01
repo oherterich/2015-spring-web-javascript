@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; }
+
+.ball {
+	background: #f00;
+	width: 30px;
+	height: 30px;
+	border-radius: 30px;
+	position: absolute;
+}
